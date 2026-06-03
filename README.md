@@ -52,4 +52,6 @@ This repository is shared for portfolio and demonstration purposes. Certain busi
 **Aman Singh**
 Full-stack (MERN) developer
 
-GitHub: https://github.com/your-github-username
+Linkedin: https://www.linkedin.com/in/aman-singh-477210196
+
+GitHub: https://github.com/Aman-singh98
