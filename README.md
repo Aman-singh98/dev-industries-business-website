@@ -1,16 +1,55 @@
-# React + Vite
+# DEV Industries Hospital Equipment Bussiness Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive business website developed as a freelance project for DEV Industries Bhiwani.
 
-Currently, two official plugins are available:
+🌐 **Live Website:** https://devindustriesbhiwani.com
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Overview
+This website was designed and developed to establish a professional online presence for DEV Industries Bhiwani. The project focuses on responsive design, performance optimization, and a user-friendly experience across all devices.
 
-## React Compiler
+## Features
+- Responsive design for mobile, tablet, and desktop
+- Clean and modern user interface
+- Fast loading and optimized performance
+- SEO-friendly structure
+- Contact and business information sections
+- Production deployment and hosting
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Tech Stack
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
+- Tallwind
+- Vite + react
+- MERN Stack
 
-## Expanding the ESLint configuration
+## My Responsibilities
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+As the freelance developer, I was responsible for:
+- Frontend development
+- Responsive UI implementation
+- Website optimization
+- Deployment and hosting setup
+- Maintenance and updates
+
+## Live Demo
+
+Visit the live website:
+
+👉 https://devindustriesbhiwani.com
+
+## Project Status
+
+✅ Live and deployed
+
+## Disclaimer
+
+This repository is shared for portfolio and demonstration purposes. Certain business-related content and assets belong to the client.
+
+## Author
+
+**Aman Singh**
+Full-stack (MERN) developer
+
+GitHub: https://github.com/your-github-username
